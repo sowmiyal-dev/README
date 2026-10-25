@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sowmiya%20L&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20JavaScript&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Vanakkam!+Welcome+to+my+profile;Building+responsive+web+interfaces;Learning+React+through+real+projects;Turning+ideas+into+clean+UI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hello!+Welcome+to+my+profile;Building+responsive+web+interfaces;Learning+React+through+real+projects;Turning+ideas+into+clean+UI" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -28,8 +28,8 @@
 
 ## 👋 About Me
 
-name: Sowmiya L
-role: Frontend Developer
+name: Sowmiya L<br>
+role: Frontend Developer<br>
 focus:
   - Responsive Web Design
   - JavaScript & Interactive UI
@@ -96,7 +96,7 @@ Real Projects → Professional Frontend Developer
 
 **Responsive food website.** A multi-section, mobile-first website built with semantic HTML and Bootstrap 5, designed to work across mobile, tablet and desktop screens.
 
-**Tech Stack:** `HTML5` `CSS3` `Bootstrap 5`
+**Tech Stack:** <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap"/>
 
 [View Code →](https://github.com/sowmiyal-dev/my-Bootstrap5-project)
 
@@ -107,20 +107,13 @@ Real Projects → Professional Frontend Developer
 
 **Interactive UI mini-projects.** Small projects applying core JavaScript to real interface problems: DOM manipulation, event handling, Fetch API and async code.
 
-**Tech Stack:** HTML5 CSS3 JavaScript
+**Tech Stack:** <img src="https://skillicons.dev/icons?i=js,html,css"/>
 
 [View Code →](https://github.com/sowmiyal-dev/my-javascript-project)
 
 
 ---
 
-### 🚧 Project 03 — React Application (Planned)
-
-**Next project.** A complete React app with routing, state management and live API data, deployed with a public demo link.
-
-**Tech Stack:** `React` `React Router` `REST API`
-
----
 
 ## 🎯 Current Focus
 
