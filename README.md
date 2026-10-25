@@ -29,7 +29,9 @@
 ## 👩‍💻 About Me
 
 name: Sowmiya L
+<br>
 role: Frontend Developer
+<br>
 interests:
   - Web Development
   - Responsive UI Design
