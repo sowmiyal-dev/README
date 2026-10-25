@@ -1,14 +1,35 @@
+```html
+<div align="center">
+
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Sowmiya%20L&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Full%20Stack%20Developer%20in%20Progress&descAlignY=58&descSize=18" />
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B57EDC&center=true&vCenter=true&width=650&lines=Hi+there!+%F0%9F%91%8B+I'm+Sowmiya;Frontend+Development+Enthusiast;React+%7C+JavaScript+%7C+Bootstrap;Learning+Full+Stack+Development;Building+Responsive+Web+Projects" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/sowmiyal-dev">
+  <img src="https://img.shields.io/badge/GitHub-sowmiyal--dev-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/sowmiya-l-435698286">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+</div>
+
+---
+
 ## 👩‍💻 About Me
 
-Hi, I'm **Sowmiya L**, a developer passionate about building responsive, interactive, and user-friendly web applications.
-
-- 🎨 Strong focus on **Frontend Development** using HTML, CSS, JavaScript, Bootstrap, and React.
-- 💻 Currently focusing on **Full Stack Development** to expand my skills across frontend, databases, and application development.
-- 🚀 Have completed a few full-stack projects and continue to improve my practical development skills.
-- 🗄️ Exploring SQL and MongoDB for database management.
-- 📚 Interested in building real-world applications and learning modern development technologies.
-
-**My approach:** Learn → Build → Test → Improve.
+- 👋 Hi, I'm **Sowmiya**, a developer passionate about building modern and responsive websites.
+- 🎨 My main interest is **Frontend Development**, creating clean, user-friendly interfaces.
+- 💻 I work with **HTML, CSS, JavaScript, React, and Bootstrap**.
+- 🚀 I have completed several projects, including frontend projects and full-stack applications.
+- 🌱 Currently focusing on improving my **Full Stack Development** skills.
+- 🗄️ Learning and working with **SQL, MySQL, and MongoDB** for database management.
+- 🧩 I enjoy solving coding problems and learning new technologies through practical projects.
+- 🎯 My goal is to build useful, responsive, and well-structured web applications.
 
 ---
 
@@ -17,75 +38,138 @@ Hi, I'm **Sowmiya L**, a developer passionate about building responsive, interac
 ### 🎨 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="HTML CSS JavaScript React Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="Frontend Technologies"/>
 </p>
 
-### 🗄️ Database Knowledge
+| Technology | Knowledge |
+|---|---|
+| HTML5 | Semantic structure and accessible web pages |
+| CSS3 | Styling, layouts, Flexbox, Grid, and responsive design |
+| JavaScript | DOM manipulation, events, arrays, objects, and asynchronous JavaScript |
+| React | Components, props, state, hooks, and React Router |
+| Bootstrap 5 | Responsive layouts and reusable UI components |
+
+### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="SQL and MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Database Technologies"/>
 </p>
+
+- **SQL / MySQL** — queries, filtering, sorting, and relational database basics.
+- **MongoDB** — document-based database fundamentals and CRUD operations.
 
 ### 🔧 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" alt="Development Tools"/>
 </p>
+
+- **Git** — version control and source code management.
+- **GitHub** — repositories, commits, and project sharing.
+- **VS Code** — code editing and development.
+- **npm** — JavaScript package management.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 01. Full Stack Web Applications
+### 1. 🍜 Momokafe — Responsive Website
 
-Completed full-stack projects involving user interfaces, application functionality, and database integration. Explore my repositories to see the individual projects and technologies used.
+A food-themed website built using **HTML, CSS, and Bootstrap 5**, with a focus on responsive layouts and user-friendly design.
 
-**Focus Areas:** `Frontend Development` `Application Functionality` `Database Integration`
+- Created a structured website layout.
+- Used Bootstrap components and responsive styling.
+- Practiced frontend design and layout development.
 
-### 02. Momokafe — Responsive Website
+🔗 **Repository:** [View Momokafe Project](https://github.com/sowmiyal-dev/my-Bootstrap5-project)
 
-A responsive website project built using Bootstrap 5, focusing on clean layouts, navigation, and mobile-friendly user interfaces.
+### 2. 💻 JavaScript Practice Projects
 
-**Technologies:** `HTML` `CSS` `Bootstrap 5` `JavaScript`
+A collection of JavaScript exercises and small projects created to strengthen programming fundamentals.
 
-### 03. JavaScript Projects
+- Variables, data types, operators, and conditional statements.
+- Arrays, functions, loops, and objects.
+- DOM manipulation and event handling.
+- Fetch API and asynchronous JavaScript practice.
 
-Projects and exercises focused on JavaScript fundamentals and interactive browser-based functionality.
+🔗 **GitHub:** [Explore My Repositories](https://github.com/sowmiyal-dev?tab=repositories)
 
-**Concepts:** `DOM Manipulation` `Events` `Arrays` `Functions` `Form Validation` `Fetch API`
+### 3. 🌐 Full Stack Development Projects
 
-**Technologies:** `HTML` `CSS` `JavaScript`
+I have also completed a few full-stack projects as part of my practical development experience.
+
+- Practiced connecting frontend interfaces with server-side functionality.
+- Worked with database concepts and application data.
+- Focused on understanding the complete web application workflow.
+
+🔗 **GitHub:** [Explore My Projects](https://github.com/sowmiyal-dev?tab=repositories)
 
 ---
 
-## 🎯 Current Focus
+## 📚 My Learning Journey
 
 ```text
-CURRENT STRENGTH
-    Frontend Development
-            ↓
-CURRENT FOCUS
-    Full Stack Development
-            ↓
-BUILDING
-    Practical Web Applications
-            ↓
-IMPROVING
-    Application Design & Database Skills
+Frontend Development
+    ├── HTML5
+    ├── CSS3
+    ├── JavaScript
+    ├── Bootstrap 5
+    └── React
+
+Database Knowledge
+    ├── SQL
+    ├── MySQL
+    └── MongoDB
+
+Development Tools
+    ├── Git
+    ├── GitHub
+    └── VS Code
+
+Current Focus
+    └── Full Stack Development
 ```
 
-- Strengthening React and JavaScript.
-- Improving frontend design and responsiveness.
-- Practicing SQL and MongoDB.
-- Building and improving full-stack applications.
-- Writing cleaner, more maintainable code.
-
 ---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-### 💜 Learn. Build. Improve.
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sowmiyal-dev&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="GitHub Statistics"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Frontend+Focused;Growing+in+Full+Stack+Development;Building+Real-World+Projects;Learning+Through+Practice" alt="Footer Animation"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmiyal-dev&layout=compact&theme=midnight-purple&hide_border=true" alt="Most Used Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=sowmiyal-dev&theme=midnight-purple&hide_border=true" alt="GitHub Contribution Streak"/>
 
 </div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/sowmiyal-dev">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sowmiya-l-435698286">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:Sowmi2603@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+💜 *Learning, building, and improving one project at a time.*
+
+</div>
+
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer" />
+```
