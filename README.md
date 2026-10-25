@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:A78BFA&height=220&section=header&text=Sowmiya%20L&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20%7C%20React%20Developer&descAlignY=58&descSize=18" />
