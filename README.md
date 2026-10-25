@@ -28,32 +28,36 @@
 
 ## 👩‍💻 About Me
 
-name: Sowmiya L
-<br>
-role: Frontend Developer
-<br>
-interests:
-  - Web Development
-  - Responsive UI Design
-  - Interactive Web Applications
-technologies:
-  - HTML
-  - CSS
-  - JavaScript
-  - React
-  - Bootstrap
-database:
-  - SQL
-  - MongoDB
-tools:
-  - Git
-  - GitHub
-  - VS Code
-mindset: Learn → Build → Improve
+<div align="center">
+  <img src="https://img.shields.io/badge/Frontend-Developer-7C3AED?style=flat-square&logo=react&logoColor=white" alt="Frontend Developer"/>
+  <img src="https://img.shields.io/badge/UI-Development-A78BFA?style=flat-square" alt="UI Development"/>
+  <img src="https://img.shields.io/badge/Web-Design-6D28D9?style=flat-square" alt="Web Design"/>
+</div>
 
-I'm passionate about **Frontend Development** and enjoy creating clean, responsive, and user-friendly websites. I work with HTML, CSS, JavaScript, React, and Bootstrap to build interactive web interfaces.
+<br/>
 
-I also have knowledge of SQL and MongoDB and enjoy improving my skills by building practical projects and exploring modern web technologies.
+<p align="center">
+  Hi, I'm <strong>Sowmiya L</strong>, a Frontend Developer passionate about creating clean, responsive, and user-friendly websites.
+</p>
+
+<p align="center">
+  I work with <strong>HTML, CSS, JavaScript, React, and Bootstrap</strong> to build interactive web interfaces and responsive layouts.
+</p>
+
+<p align="center">
+  I also have knowledge of <strong>SQL and MongoDB</strong> and continuously improve my skills by building practical projects and exploring modern web technologies.
+</p>
+
+<div align="center">
+
+| 💻 Area | 🛠️ Technologies |
+|:---|:---|
+| Frontend | HTML, CSS, JavaScript, React, Bootstrap |
+| Database | SQL, MySQL, MongoDB |
+| Tools | Git, GitHub, VS Code |
+| Mindset | Learn → Build → Improve |
+
+</div>
 
 ---
 
@@ -144,26 +148,11 @@ A collection of practical exercises and mini-projects created to strengthen Java
 
 ---
 
-### 🌐 03. Full Stack Projects
-
-I have also completed a few full-stack projects. My main interest and strongest focus remain on building the frontend and creating user-friendly interfaces.
-
-**Highlights**
-- Building web application interfaces.
-- Practicing application functionality and data handling.
-- Improving practical development skills through projects.
-
-**Technologies:** `HTML` `CSS` `JavaScript` `React` `SQL` `MongoDB`
-
-🔗 [Explore My Projects](https://github.com/sowmiyal-dev?tab=repositories)
-
----
 
 ## 📚 My Learning Journey
 
 <div align="center">
-
-```text
+text
         HTML & CSS
             ↓
        JavaScript
@@ -177,7 +166,6 @@ I have also completed a few full-stack projects. My main interest and strongest 
     Practical Projects
             ↓
    Continuous Improvement
-```
 
 </div>
 
@@ -191,26 +179,6 @@ I have also completed a few full-stack projects. My main interest and strongest 
 - 📱 Creating responsive websites using **Bootstrap**.
 - 🗄️ Strengthening my **SQL and MongoDB** knowledge.
 - 🚀 Building better frontend projects and improving code quality.
-
----
-
-## 📊 GitHub Profile
-
-<div align="center">
-
-<a href="https://github.com/sowmiyal-dev">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sowmiyal-dev&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-</a>
-
-<a href="https://github.com/sowmiyal-dev">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmiyal-dev&layout=compact&theme=midnight-purple&hide_border=true" alt="Most Used Languages"/>
-</a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=sowmiyal-dev&theme=midnight-purple&hide_border=true" alt="GitHub Contribution Streak"/>
-
-</div>
 
 ---
 
@@ -245,4 +213,4 @@ I have also completed a few full-stack projects. My main interest and strongest 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:A78BFA&height=120&section=footer"/>
 
 </div>
-```
+
