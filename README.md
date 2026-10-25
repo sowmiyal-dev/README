@@ -28,7 +28,6 @@
 
 ## 👩‍💻 About Me
 
-```yaml
 name: Sowmiya L
 role: Frontend Developer
 interests:
@@ -49,7 +48,6 @@ tools:
   - GitHub
   - VS Code
 mindset: Learn → Build → Improve
-```
 
 I'm passionate about **Frontend Development** and enjoy creating clean, responsive, and user-friendly websites. I work with HTML, CSS, JavaScript, React, and Bootstrap to build interactive web interfaces.
 
