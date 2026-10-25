@@ -24,7 +24,6 @@
 
 I build responsive, user-friendly web interfaces with **HTML, CSS, JavaScript, React and Bootstrap**. I learn by building, so what I list here is backed by code in my repositories.
 
-```js
 const sowmiya = {
   role: "Frontend Developer",
   stack: ["HTML", "CSS", "JavaScript", "React", "Bootstrap"],
@@ -33,7 +32,6 @@ const sowmiya = {
   nextMilestone: "Ship a complete, deployed React project",
   openTo: ["Learning opportunities", "Collaborations"],
 };
-```
 
 <br/>
 
