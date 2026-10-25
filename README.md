@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:6D28D9,100:C4B5FD&height=240&section=header&text=Hi,%20I%27m%20Sowmiya&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20JavaScript&descAlignY=60&descSize=18" alt="Header" />
+<img src="assets/banner.svg" width="100%" alt="Sowmiya L - Frontend Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile;I+build+clean%2C+responsive+web+interfaces;HTML+%7C+CSS+%7C+JavaScript+%7C+React" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Vanakkam!+Welcome+to+my+profile;Frontend+Developer+%7C+React+%7C+JavaScript;Building+clean%2C+responsive+interfaces" alt="Typing SVG" />
 
 <br/>
 
@@ -20,15 +20,20 @@
 
 <br/>
 
-## 👋 About
+## 👋 About Me
 
-I'm a frontend developer who builds responsive, user-friendly web interfaces with **HTML, CSS, JavaScript, React and Bootstrap**. I learn by building, so most of what I know is backed by a project in my repositories.
+I build responsive, user-friendly web interfaces with **HTML, CSS, JavaScript, React and Bootstrap**. I learn by building, so what I list here is backed by code in my repositories.
 
-| | |
-|:--|:--|
-| 🎯 **Focus** | Responsive layouts, interactive UIs, component-based React apps |
-| 🌱 **Currently learning** | React (hooks, routing, state management) and API integration |
-| 🗄️ **Also familiar with** | SQL, MySQL, MongoDB fundamentals |
+```js
+const sowmiya = {
+  role: "Frontend Developer",
+  stack: ["HTML", "CSS", "JavaScript", "React", "Bootstrap"],
+  databases: ["MySQL", "MongoDB"],
+  currentlyLearning: ["React hooks & routing", "REST API integration"],
+  nextMilestone: "Ship a complete, deployed React project",
+  openTo: ["Learning opportunities", "Collaborations"],
+};
+```
 
 <br/>
 
@@ -36,55 +41,68 @@ I'm a frontend developer who builds responsive, user-friendly web interfaces wit
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,vscode,mysql,mongodb&theme=dark" alt="Tech stack" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,vscode,mysql,mongodb&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,vscode,mysql,mongodb&theme=light">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,vscode,mysql,mongodb&theme=dark" alt="Tech stack" />
+</picture>
 
 </div>
 
-| Area | Technologies |
+<br/>
+
+| Level | Technologies |
 |:--|:--|
-| **Frontend** | HTML5 · CSS3 (Flexbox, Grid) · JavaScript (ES6+) · React · Bootstrap 5 |
-| **Database** | SQL / MySQL · MongoDB |
-| **Tools** | Git · GitHub · VS Code |
+| 🟣 **Comfortable** | HTML5 · CSS3 (Flexbox, Grid) · Bootstrap 5 |
+| 🔵 **Working knowledge** | JavaScript (ES6+, DOM, Fetch API) · Git & GitHub |
+| 🟡 **Currently learning** | React (components, props, state, hooks, React Router) |
+| ⚪ **Familiar with** | SQL / MySQL · MongoDB |
 
 <br/>
 
 ## 🚀 Featured Projects
 
-### 🍜 Momokafe: Responsive Food Website
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A multi-section, mobile-first website for a food brand.
+### 🍜 Momokafe
+**Responsive food website**
 
-- Built layouts with semantic HTML5 and styled them with CSS3 and Bootstrap 5
-- Responsive across mobile, tablet and desktop breakpoints
+A multi-section, mobile-first website built with semantic HTML and Bootstrap 5, tested across mobile, tablet and desktop breakpoints.
 
 `HTML5` `CSS3` `Bootstrap 5`
 
 [**View Code →**](https://github.com/sowmiyal-dev/my-Bootstrap5-project)
-<!-- TODO: deploy on GitHub Pages / Netlify / Vercel, then add:  &nbsp;·&nbsp; [**Live Demo →**](YOUR-LIVE-URL) -->
-<!-- TODO: add a screenshot:  <img src="docs/momokafe.png" width="80%" alt="Momokafe screenshot"/> -->
+<!-- TODO: after deploying, add:  · [**Live Demo →**](YOUR-LIVE-URL) -->
+<!-- TODO: add a screenshot:  <img src="assets/momokafe.png" alt="Momokafe screenshot" /> -->
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
-### ⚡ JavaScript Practice: Interactive UI Mini-Projects
+### ⚡ JavaScript Practice
+**Interactive UI mini-projects**
 
-A collection of small projects that apply core JavaScript to real interface problems.
-
-- DOM manipulation and event handling
-- Fetch API and asynchronous JavaScript
-- Functions, arrays, objects, loops and conditions
+Small projects applying core JavaScript to real interface problems: DOM manipulation, event handling, Fetch API and async code.
 
 `HTML5` `CSS3` `JavaScript`
 
 [**View Code →**](https://github.com/sowmiyal-dev?tab=repositories)
-<!-- TODO: replace this link with the exact repository, and add a live demo link -->
+<!-- TODO: link the exact repository + add a live demo -->
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## 📌 What's Next
+## 🧭 Roadmap
 
+- [x] Responsive layouts with HTML, CSS and Bootstrap
+- [x] JavaScript fundamentals, DOM and Fetch API
 - [ ] Build and publish a full React project (routing, state, API data)
 - [ ] Deploy every project with a live demo link
-- [ ] Add a personal portfolio website
+- [ ] Launch a personal portfolio website
 
 <br/>
 
@@ -92,7 +110,7 @@ A collection of small projects that apply core JavaScript to real interface prob
 
 <div align="center">
 
-I'm open to learning opportunities, collaborations and conversations with the web development community.
+Open to learning opportunities, collaborations and conversations with the web development community.
 
 <a href="https://www.linkedin.com/in/sowmiya-l-435698286">
   <img src="https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
