@@ -1,216 +1,173 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:A78BFA&height=220&section=header&text=Sowmiya%20L&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20%7C%20React%20Developer&descAlignY=58&descSize=18" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sowmiya+%F0%9F%91%8B;Frontend+Development+Enthusiast;HTML+%7C+CSS+%7C+JavaScript;Building+Responsive+Web+Interfaces;React+%7C+Bootstrap+%7C+UI+Development;Learn+%E2%86%92+Build+%E2%86%92+Improve" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:6D28D9,100:C4B5FD&height=220&section=header&text=Sowmiya%20L&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20%7C%20React%20Enthusiast&descAlignY=58&descSize=18" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/FOCUS-Frontend%20Development-6D28D9?style=for-the-badge" alt="Frontend Focus"/>
-<img src="https://img.shields.io/badge/FRAMEWORK-React-7C3AED?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-<img src="https://img.shields.io/badge/DATABASE-SQL%20%7C%20MongoDB-4C1D95?style=for-the-badge" alt="Database"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Designing+clean+web+interfaces;Building+responsive+user+experiences;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Learning+through+real+projects" alt="Typing SVG" />
 
 <br/><br/>
 
-<a href="https://github.com/sowmiyal-dev">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-</a>
 <a href="https://www.linkedin.com/in/sowmiya-l-435698286">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:Sowmi2603@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/sowmiyal-dev?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Explore-4C1D95?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
 </a>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Frontend-Developer-7C3AED?style=flat-square&logo=react&logoColor=white" alt="Frontend Developer"/>
-  <img src="https://img.shields.io/badge/UI-Development-A78BFA?style=flat-square" alt="UI Development"/>
-  <img src="https://img.shields.io/badge/Web-Design-6D28D9?style=flat-square" alt="Web Design"/>
-</div>
+I'm **Sowmiya L**, a Frontend Developer passionate about crafting clean, responsive, and user-friendly web interfaces.
 
-<br/>
+I enjoy transforming ideas into engaging digital experiences using **HTML, CSS, JavaScript, React, and Bootstrap**. My focus is on building well-structured layouts, responsive designs, and interactive interfaces that provide a smooth user experience.
 
-<p align="center">
-  Hi, I'm <strong>Sowmiya L</strong>, a Frontend Developer passionate about creating clean, responsive, and user-friendly websites.
-</p>
+Alongside frontend development, I have knowledge of **SQL, MySQL, and MongoDB**. I believe in continuous learning, practical problem-solving, and improving my skills through hands-on projects.
 
-<p align="center">
-  I work with <strong>HTML, CSS, JavaScript, React, and Bootstrap</strong> to build interactive web interfaces and responsive layouts.
-</p>
-
-<p align="center">
-  I also have knowledge of <strong>SQL and MongoDB</strong> and continuously improve my skills by building practical projects and exploring modern web technologies.
-</p>
-
-<div align="center">
-
-| 💻 Area | 🛠️ Technologies |
-|:---|:---|
-| Frontend | HTML, CSS, JavaScript, React, Bootstrap |
-| Database | SQL, MySQL, MongoDB |
-| Tools | Git, GitHub, VS Code |
-| Mindset | Learn → Build → Improve |
-
-</div>
+> *My approach: Learn with curiosity. Build with purpose. Improve with every project.*
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🎨 Frontend Development
+### Frontend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark" alt="HTML CSS JavaScript React Bootstrap"/>
-</p>
+<div align="left">
 
-| Technology | Skills |
-|---|---|
-| **HTML5** | Semantic HTML, page structure, forms, and accessible markup |
-| **CSS3** | Flexbox, Grid, animations, layouts, and responsive design |
-| **JavaScript** | ES6+, functions, arrays, objects, DOM manipulation, events, and Fetch API |
-| **React** | Components, props, state, hooks, and React Router |
-| **Bootstrap 5** | Responsive grids, components, utilities, and layouts |
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark" alt="HTML CSS JavaScript React Bootstrap"/>
 
-### 🗄️ Database Knowledge
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL and MongoDB"/>
-</p>
+| Technology | Areas of Knowledge |
+|:--|:--|
+| **HTML5** | Semantic markup, page structure, forms, accessibility basics |
+| **CSS3** | Flexbox, Grid, responsive layouts, transitions, animations |
+| **JavaScript** | ES6+, functions, arrays, objects, DOM, events, Fetch API |
+| **React** | Components, props, state, hooks, React Router |
+| **Bootstrap 5** | Responsive grid, utilities, components, layouts |
 
-- **SQL / MySQL** — queries, filtering, sorting, joins, and relational database fundamentals.
+### Database Knowledge
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL MongoDB"/>
+
+</div>
+
+- **SQL / MySQL** — querying, filtering, sorting, joins, and relational database fundamentals.
 - **MongoDB** — document-based data storage and database fundamentals.
 
-### 🔧 Development Tools
+### Development Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub VS Code"/>
-</p>
+<div align="left">
 
-- **Git** — version control and source code management.
-- **GitHub** — repositories, commits, and project collaboration.
-- **VS Code** — code editing and development.
-
----
-
-## 💻 Frontend Skills
-
-<div align="center">
-
-| Skill | Focus |
-|:---:|---|
-| 🌐 HTML5 | Structured and semantic web pages |
-| 🎨 CSS3 | Styling, layouts, and responsive interfaces |
-| ⚡ JavaScript | Interactive functionality and DOM manipulation |
-| ⚛️ React | Component-based UI development |
-| 📱 Bootstrap | Mobile-friendly and responsive layouts |
-| 🗄️ SQL & MongoDB | Database knowledge |
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub VS Code"/>
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-### 🍜 01. Momokafe — Responsive Website
-
-A food-themed website built using **HTML, CSS, and Bootstrap 5**, focusing on responsive layouts and an engaging user interface.
-
-**Highlights**
-- Responsive website layout.
-- Bootstrap components and styling.
-- Clean page structure and user-friendly design.
-
-**Tech Stack:** `HTML5` `CSS3` `Bootstrap 5`
-
-🔗 [View Project on GitHub](https://github.com/sowmiyal-dev/my-Bootstrap5-project)
+**Git** · **GitHub** · **Visual Studio Code**
 
 ---
 
-### 💡 02. JavaScript Practice Projects
+## Selected Projects
 
-A collection of practical exercises and mini-projects created to strengthen JavaScript fundamentals and interactive web development skills.
+### 01 — Momokafe
 
-**Highlights**
-- Variables, functions, arrays, and objects.
-- Conditional statements and loops.
+**Responsive Food Website**
+
+A food-themed website developed with a focus on responsive layouts, organized content, and an engaging visual presentation.
+
+- Structured page layouts using HTML.
+- Styled interface elements with CSS and Bootstrap 5.
+- Practiced responsive design for different screen sizes.
+
+**Built with:** `HTML5` `CSS3` `Bootstrap 5`
+
+[Explore Repository →](https://github.com/sowmiyal-dev/my-Bootstrap5-project)
+
+---
+
+### 02 — JavaScript Practice
+
+**JavaScript Fundamentals & Interactive UI**
+
+A collection of practice exercises and mini-projects focused on strengthening JavaScript fundamentals and interactive web development.
+
+- Functions, arrays, objects, loops, and conditions.
 - DOM manipulation and event handling.
-- Fetch API and asynchronous JavaScript.
+- Fetch API and asynchronous JavaScript fundamentals.
 
-**Tech Stack:** `HTML5` `CSS3` `JavaScript`
+**Built with:** `HTML5` `CSS3` `JavaScript`
 
-🔗 [Explore My Repositories](https://github.com/sowmiyal-dev?tab=repositories)
+[Explore My Repositories →](https://github.com/sowmiyal-dev?tab=repositories)
 
 ---
 
-
-## 📚 My Learning Journey
+## What I'm Focused On
 
 <div align="center">
-text
-        HTML & CSS
-            ↓
-       JavaScript
-            ↓
-        Bootstrap
-            ↓
-          React
-            ↓
-   Responsive UI Design
-            ↓
-    Practical Projects
-            ↓
-   Continuous Improvement
+
+| Focus Area | Goal |
+|:--|:--|
+| **Responsive Design** | Build layouts that work across devices |
+| **JavaScript** | Improve logic and interactive functionality |
+| **React** | Develop reusable, component-based interfaces |
+| **UI Development** | Create clean and consistent user experiences |
+| **Databases** | Strengthen SQL and MongoDB knowledge |
 
 </div>
 
 ---
 
-## 🎯 Current Focus
-
-- ✨ Improving my **HTML and CSS** skills.
-- ⚡ Practicing **JavaScript** through real-world examples.
-- ⚛️ Building reusable interfaces with **React**.
-- 📱 Creating responsive websites using **Bootstrap**.
-- 🗄️ Strengthening my **SQL and MongoDB** knowledge.
-- 🚀 Building better frontend projects and improving code quality.
-
----
-
-## 🤝 Connect With Me
+## My Development Philosophy
 
 <div align="center">
 
-<a href="https://github.com/sowmiyal-dev">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/sowmiya-l-435698286">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:Sowmi2603@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+<img src="https://img.shields.io/badge/01-Learn-4C1D95?style=for-the-badge" alt="Learn"/>
+<img src="https://img.shields.io/badge/02-Build-6D28D9?style=for-the-badge" alt="Build"/>
+<img src="https://img.shields.io/badge/03-Improve-7C3AED?style=for-the-badge" alt="Improve"/>
+<img src="https://img.shields.io/badge/04-Repeat-A78BFA?style=for-the-badge" alt="Repeat"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Always-Learning-6D28D9?style=for-the-badge" alt="Always Learning"/>
-<img src="https://img.shields.io/badge/Always-Building-7C3AED?style=for-the-badge" alt="Always Building"/>
-<img src="https://img.shields.io/badge/Always-Improving-A78BFA?style=for-the-badge" alt="Always Improving"/>
+I value clean code, thoughtful design, continuous learning, and practical experience.
 
-<br/><br/>
+</div>
 
-### 💜 Learn. Build. Improve.
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Turning+ideas+into+web+interfaces;Creating+responsive+user+experiences;Growing+one+project+at+a+time" alt="Footer Animation"/>
+## Let's Connect
+
+<div align="center">
+
+I'm always interested in learning, building projects, and connecting with people in the web development community.
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:A78BFA&height=120&section=footer"/>
+<a href="https://www.linkedin.com/in/sowmiya-l-435698286">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:Sowmi2603@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Say%20Hello-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/sowmiyal-dev?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-View%20Projects-4C1D95?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects"/>
+</a>
+
+<br/><br/>
+
+### Building better interfaces, one project at a time. 💜
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Keep+Learning;Keep+Creating;Keep+Improving" alt="Footer Animation"/>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:6D28D9,100:C4B5FD&height=120&section=footer" />
 
 </div>
-
