@@ -102,7 +102,7 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
       </p>
-      <a href="https://github.com/sowmiyal-dev?tab=repositories"><b>View Code →</b></a>
+      <a href="https://sowmiyal-dev.github.io/my-javascript-project/"><b>View project →</b></a>
     </td>
     <td width="33%" valign="top">
       <h3>🌐 Full-Stack Apps</h3>
