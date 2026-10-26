@@ -91,7 +91,7 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
       </p>
-      <a href="https://github.com/sowmiyal-dev/my-Bootstrap5-project"><b>View Code →</b></a>
+      <a href="https://sowmiyal-dev.github.io/my-Bootstrap5-project/"><b>View project →</b></a>
     </td>
     <td width="33%" valign="top">
       <h3>💡 JavaScript Practice</h3>
